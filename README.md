@@ -1,6 +1,5 @@
 # startup-api-regulator-TEST
-Project is made with using Vue.js.
-This version of regulator can support engine work more than 1 minute (Was made different runs and all of them were much more, than 2 minutes). Value of engine matter/antimatter is in range ~ 0.40-0.6. To control it, was made button "show statistic". After several series of runnig code, click this button and there will be showed order of runs with time, what was engine work.
+Project is made with using Vue.js. This version of regulator can support engine work more than 1 minute (Was made different runs and all of them were much more, than 2 minutes). Value of engine matter/antimatter is in range ~ 0.40-0.60. To control it, was made button "show statistic". After several series of runnig code, click this button and there will be showed count of runs and the time, that engine work.
 
 I made 4 runs of engine, and statistic was (this time is not maximum of working engine, I get this values when finish engine myself):
 1. 2:02
