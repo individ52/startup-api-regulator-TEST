@@ -7,7 +7,7 @@ I made 4 runs of engine, and statistic was (this time is not maximum of working 
 3. 2:31
 4. 3:01
 
-To not wait a lot, when engine explose, was made button "finish", that stop working of engine. after click this button, you can start engine again or see statistic.
+To not wait too much, when engine explose, was made button "finish", that stop working of engine. after click this button, you can start engine again or see statistic.
 
 At first, when I started compliting the task, I collapsed with problem, that I cannot connect to your API from my localhost. I find single solution - launch google with disabled web security.
 Problem description:
