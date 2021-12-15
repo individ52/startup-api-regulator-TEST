@@ -1,0 +1,45 @@
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    margin-top:15px
+}
+.buttons label {
+    font-size: 20px;
+}
+.flowRate {
+    font-size: 20px;
+    position: relative;
+}
+.change-number {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.blueBack {
+    background-color: #0d6efd;
+    color: #fff;
+
+}
+.low {
+    color: #0d6efd;
+}
+.high {
+    color: #dc3545;
+}
+.optimal {
+    color: #198754;
+}
+.progress{
+    height:30px;
+    border-radius:20px;
+}
+.progress-bar {
+    background-color: rgb(109, 109, 109);
+}
+
+.timer {
+    text-align: center;
+    font-size: 35px;
+}
+
