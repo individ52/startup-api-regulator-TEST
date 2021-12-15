@@ -1,6 +1,7 @@
 # startup-api-regulator-TEST
 Project is made with using Vue.js.
-This version of regulator can support engine work more than 1 minute (Was made different runs and all of them were much more, than 2 minutes)
+This version of regulator can support engine work more than 1 minute (Was made different runs and all of them were much more, than 2 minutes). To control it, was made button "show show statistic". After several series of runnig code, click this button and there will be showed order of runs with time, what was engine work.
+To not wait a lot, when engine explose, was made button "finish", that stop working of engine. after click this button, you can start engine again or see statistic.
 
 At first, when I started compliting the task, I collapsed with problem, that I cannot connect to your API from my localhost. I find single solution - launch google with disabled web security.
 Problem description:
